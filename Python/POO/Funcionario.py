@@ -36,3 +36,4 @@ print(f"usuarios cadastrados (2/2)")
 
 for i in funcionario:
     i.exibir_info()
+    salario_somados = salario_somados
