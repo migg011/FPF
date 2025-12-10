@@ -15,5 +15,5 @@
 #  Imprimir (usando print) o total de combustível necessário.
 #  calcula_combustivel(2, 50, 25, 10) – utilize esses valores, já supõe que tem 2 missões fixas e
 # os gastos adicionais são 50, 25 e 10 unidades
-#  Extra (Considere fazer com input)
+#  Extra (Considere fazer com input))
 
